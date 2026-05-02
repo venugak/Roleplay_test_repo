@@ -1,3 +1,4 @@
 Persona 1 = admin
 Persona 2 = user
 Persona 3 = super user
+persona 4 = visitor
